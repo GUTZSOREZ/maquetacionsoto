@@ -1,0 +1,84 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	/*background: blueviolet;*/
+}
+#contenedor{
+	width: 1200px;
+	height: 1000px;
+	/*background: #48BEC7;*/
+	margin: 0.5em auto;
+	padding: 0.5em;
+}
+#header{
+	height: 20%;
+	background: #F9D38D;
+	border-radius: 1em;
+	margin: 0.5em;
+	padding: 0.5em;
+}
+#nav{
+	height: 10%;
+	background: #1FD12B;
+	border-radius: 1em;
+	margin: 0.5em;
+	padding: 0.5em;
+}
+#contenido{
+	height: 50%;
+	/*background: #BB02B5;*/
+	
+}
+
+#footer{
+	height: 12%;
+	background: #E1E50B;
+	border-radius: 1em;
+	margin: 0.5em;
+	padding: 0.5em;
+}
+#article{
+	width: 60%;
+	height: 97%;
+	background: red;
+	margin: 0.5em;
+	padding:none;
+	border-radius: 1em;
+	float: left;
+}
+#aside{
+	width: 37%;
+	height: 97%;
+	background: deeppink;
+	border-radius: 1em;
+	margin: 0.2em;
+	padding: none;
+	float: right;
+}
+#caja1{
+	width: 95%;
+	height: 27%;
+	background: white;
+	border-radius: 1em;
+	margin: 0.5em;
+	padding: 0.5em;
+
+}
+#caja2{
+	width: 95%;
+	height: 27%;
+	background: white;
+	border-radius: 1em;
+	margin: 0.5em;
+	padding: 0.5em;
+}
+#caja3{
+	width: 95%;
+	height: 27%;
+	background: white;
+	border-radius: 1em;
+	margin: 0.5em;
+	padding: 0.5em;
+}
